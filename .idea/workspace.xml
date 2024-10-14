@@ -4,24 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="817ea27c-255f-4260-80e2-2eda95342e67" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/hello-view.fxml" afterDir="false" />
+    <list default="true" id="817ea27c-255f-4260-80e2-2eda95342e67" name="Changes" comment="add scenes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/CalculatorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/CalculatorController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/FlagController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/FlagController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/RestaurantController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/RestaurantController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/WidgetsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/WidgetsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/WorldThrowerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/fifthlab/WorldThrowerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/calculator-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/calculator-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/flag-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/flag-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/restaurant-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/restaurant-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/widgets-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/widgets-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/wordThrower-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/org/example/fifthlab/wordThrower-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;atipozitiv&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/atipozitiv/fifthLabJavaFx.git&quot;,
+    &quot;accountId&quot;: &quot;328c11e9-801f-4249-a5d5-e92ccfbdaed8&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -73,6 +83,27 @@
       <option name="presentableId" value="Default" />
       <updated>1728137234335</updated>
     </task>
+    <task id="LOCAL-00001" summary="add scenes">
+      <option name="closed" value="true" />
+      <created>1728832523057</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728832523057</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add scenes">
+      <option name="closed" value="true" />
+      <created>1728832582357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728832582357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add scenes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add scenes" />
   </component>
 </project>

@@ -10,6 +10,7 @@ module org.example.fifthlab {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires java.scripting;
 
     opens org.example.fifthlab to javafx.fxml;
     exports org.example.fifthlab;
